@@ -1,0 +1,14 @@
+part1 - 1 Colour- Red
+part2 - 1 Colour- Black
+part3 - 4 Colour- Red
+part4 - 4 Colour- Red
+part5 - 1 Colour- Black
+part6 - 1 Colour- Red
+part7 - 2 Colour- Black
+part8 -	1 Colour- Red
+part9 -	2 Colour- Red
+part10 - 1 Colour- Red
+part11 - 2 Colour- Black
+part12 - 2 Colour- Black
+BPF-WA - 4 Colour- Black
+BPF-BU - 4 Colour- Black
